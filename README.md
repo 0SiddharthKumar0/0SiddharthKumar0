@@ -1,4 +1,10 @@
-## Hi there 👋
+# Siddharth Kumar
+
+### Backend, AI & Intelligent Systems Engineer
+
+I build production-grade backend systems, AI-assisted decision platforms, and intelligent automation software. My work focuses on designing reliable, explainable, and production-oriented systems that solve real operational problems through backend engineering, machine learning, and large language models.
+
+Currently focused on backend architecture, workflow orchestration, retrieval-augmented generation (RAG), computer vision, and production AI systems.
 
 <!--
 **0SiddharthKumar0/0SiddharthKumar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
