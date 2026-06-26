@@ -2,9 +2,10 @@
 
 ### Backend, AI & Intelligent Systems Engineer
 
-I build production-grade backend systems, AI-assisted decision platforms, and intelligent automation software. My work focuses on designing reliable, explainable, and production-oriented systems that solve real operational problems through backend engineering, machine learning, and large language models.
+I build production-grade backend systems, AI-assisted decision platforms, and intelligent automation software with an emphasis on reliability, explainability, and production readiness.
 
-Currently focused on backend architecture, workflow orchestration, retrieval-augmented generation (RAG), computer vision, and production AI systems.
+My public work includes backend workflow orchestration, LLM-powered incident diagnosis, computer vision inspection pipelines, and machine learning systems designed with deterministic safety constraints and human-in-the-loop decision making.
+
 
 <!--
 **0SiddharthKumar0/0SiddharthKumar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
